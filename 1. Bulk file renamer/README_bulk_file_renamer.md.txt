@@ -1,21 +1,15 @@
-### README:
-```markdown
 # Bulk File Renamer
 
-This script allows you to automatically rename all files in a directory following a specific pattern.
+This script automates the renaming of all files in a specified directory by following a sequential naming pattern.
 
-## Usage
-1. Specify the directory path containing the files.
-2. Define the new base name for the files.
-3. Run the script.
+## Features
+- Rename all files in a folder with a consistent name and numbering.
+- Preserve file extensions during renaming.
 
-### Example:
+## How to Use
+1. Open the script and modify the `directory` and `new_name` parameters.
+2. Run the script in a Python environment.
+
+### Example
 ```python
-bulk_rename("C:/Documents", "file")
-```
-Result: file_1.txt, file_2.txt, file_3.txt, etc.
-
----
-### Contact:
-If you need a custom script, contact me at: agusbjim@gmail.com
-```
+bulk_rename("C:/MyFolder", "image")
