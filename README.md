@@ -24,7 +24,7 @@ Extract titles (H1 tags) from any webpage using web scraping techniques.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/free-scripts.git
+   git clone https://github.com/agusbjim/free-scripts.git
    ```
 2. Navigate to the desired script folder.
 3. Follow the usage instructions in the README file for each script.
@@ -47,8 +47,8 @@ Your contributions are always welcome!
 
 ## 📧 Contact
 Need a custom script for your project? Let’s collaborate! You can reach me at:
-- **Email**: your_email@example.com
-- **GitHub Issues**: [Open an issue](https://github.com/yourusername/free-scripts/issues)
+- **Email**: agusbjim@gmail.com
+- **GitHub Issues**: [Open an issue](https://github.com/agusbjim/free-scripts/issues)
 
 ---
 
